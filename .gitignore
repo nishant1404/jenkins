@@ -1,0 +1,22 @@
+# Local .terraform directories
+**/.terraform/*
+*.terraform.*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+<<<<<<< HEAD
+
+
+
+
+# Crash log files
+crash.log
+crash.*.log
+
+=======
+# Crash log files
+crash.log
+crash.*.log
+>>>>>>> 2790a40423dabec6b3a0ddfb6f24cd864173ce8c
