@@ -4,7 +4,7 @@ resource "aws_instance" "name" {
     key_name = var.key_name
 
     tags ={
-        name ="MyterraEC5"
+        name ="MyterraEC4"
     }
 
 
